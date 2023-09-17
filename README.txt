@@ -1,3 +1,4 @@
-#__Anatskiy.M.A__
-##__1-10__
-###__FIT__
+Anatskiy.M.A
+1-10
+FIT
+KNUTE
